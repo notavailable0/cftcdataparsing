@@ -1,0 +1,43 @@
+{"name": "COTTON NO. 2 - ICE FUTURES U.S.", "code": "Code-033661", "date": "12/28/21", "open_interest_all": "234,850", "non_commercial_long": "82,804", "non_commercial_short": "185,317"}
+{"name": "FRZN CONCENTRATED ORANGE JUICE - ICE FUTURES U.S.", "code": "Code-040701", "date": "12/28/21", "open_interest_all": "10,660", "non_commercial_long": "5,505", "non_commercial_short": "8,098"}
+{"name": "COCOA - ICE FUTURES U.S.", "code": "Code-073732", "date": "12/28/21", "open_interest_all": "233,663", "non_commercial_long": "121,644", "non_commercial_short": "126,530"}
+{"name": "SUGAR NO. 11 - ICE FUTURES U.S.", "code": "Code-080732", "date": "12/28/21", "open_interest_all": "864,262", "non_commercial_long": "427,847", "non_commercial_short": "636,858"}
+{"name": "COFFEE C - ICE FUTURES U.S.", "code": "Code-083731", "date": "12/28/21", "open_interest_all": "261,263", "non_commercial_long": "127,068", "non_commercial_short": "185,083"}
+{"name": "WHEAT-SRW - CHICAGO BOARD OF TRADE", "code": "Code-001602", "date": "12/28/21", "open_interest_all": "356,439", "non_commercial_long": "139,996", "non_commercial_short": "138,428"}
+{"name": "CORN - CHICAGO BOARD OF TRADE", "code": "Code-002602", "date": "12/28/21", "open_interest_all": "1,522,692", "non_commercial_long": "665,968", "non_commercial_short": "1077761"}
+{"name": "OATS - CHICAGO BOARD OF TRADE", "code": "Code-004603", "date": "12/28/21", "open_interest_all": "4,383", "non_commercial_long": "1,295", "non_commercial_short": "1,377"}
+{"name": "SOYBEANS - CHICAGO BOARD OF TRADE", "code": "Code-005602", "date": "12/28/21", "open_interest_all": "647,225", "non_commercial_long": "339,477", "non_commercial_short": "432,556"}
+{"name": "SOYBEAN OIL - CHICAGO BOARD OF TRADE", "code": "Code-007601", "date": "12/28/21", "open_interest_all": "380,321", "non_commercial_long": "209,142", "non_commercial_short": "253,658"}
+{"name": "U.S. TREASURY BONDS - CHICAGO BOARD OF TRADE", "code": "Code-020601", "date": "12/28/21", "open_interest_all": "1,208,000", "non_commercial_long": "850,571", "non_commercial_short": "861,225"}
+{"name": "SOYBEAN MEAL - CHICAGO BOARD OF TRADE", "code": "Code-026603", "date": "12/28/21", "open_interest_all": "388,667", "non_commercial_long": "184,560", "non_commercial_short": "298,704"}
+{"name": "ROUGH RICE - CHICAGO BOARD OF TRADE", "code": "Code-039601", "date": "12/28/21", "open_interest_all": "7,519", "non_commercial_long": "4,554", "non_commercial_short": "5,004"}
+{"name": "2-YEAR U.S. TREASURY NOTES - CHICAGO BOARD OF TRADE", "code": "Code-042601", "date": "12/28/21", "open_interest_all": "1,966,290", "non_commercial_long": "1316762", "non_commercial_short": "1342527"}
+{"name": "10-YEAR U.S. TREASURY NOTES - CHICAGO BOARD OF TRADE", "code": "Code-043602", "date": "12/28/21", "open_interest_all": "3,846,382", "non_commercial_long": "2913736", "non_commercial_short": "2455257"}
+{"name": "5-YEAR U.S. TREASURY NOTES - CHICAGO BOARD OF TRADE", "code": "Code-044601", "date": "12/28/21", "open_interest_all": "3,741,327", "non_commercial_long": "3006091", "non_commercial_short": "2462549"}
+{"name": "30-DAY FEDERAL FUNDS - CHICAGO BOARD OF TRADE", "code": "Code-045601", "date": "12/28/21", "open_interest_all": "1,366,900", "non_commercial_long": "1135007", "non_commercial_short": "1027529"}
+{"name": "DJIA Consolidated - CHICAGO BOARD OF TRADE", "code": "Code-12460+", "date": "12/28/21", "open_interest_all": "48,375", "non_commercial_long": "22,982", "non_commercial_short": "23,946"}
+{"name": "LIVE CATTLE - CHICAGO MERCANTILE EXCHANGE", "code": "Code-057642", "date": "12/28/21", "open_interest_all": "312,962", "non_commercial_long": "115,441", "non_commercial_short": "173,134"}
+{"name": "RANDOM LENGTH LUMBER - CHICAGO MERCANTILE EXCHANGE", "code": "Code-058643", "date": "12/28/21", "open_interest_all": "2,356", "non_commercial_long": "718", "non_commercial_short": "1,182"}
+{"name": "FEEDER CATTLE - CHICAGO MERCANTILE EXCHANGE", "code": "Code-061641", "date": "12/28/21", "open_interest_all": "39,260", "non_commercial_long": "13,558", "non_commercial_short": "9,088"}
+{"name": "RUSSIAN RUBLE - CHICAGO MERCANTILE EXCHANGE", "code": "Code-089741", "date": "12/28/21", "open_interest_all": "47,726", "non_commercial_long": "24,545", "non_commercial_short": "34,431"}
+{"name": "CANADIAN DOLLAR - CHICAGO MERCANTILE EXCHANGE", "code": "Code-090741", "date": "12/28/21", "open_interest_all": "138,692", "non_commercial_long": "62,717", "non_commercial_short": "55,550"}
+{"name": "SWISS FRANC - CHICAGO MERCANTILE EXCHANGE", "code": "Code-092741", "date": "12/28/21", "open_interest_all": "40,122", "non_commercial_long": "175", "non_commercial_short": "26,286"}
+{"name": "MEXICAN PESO - CHICAGO MERCANTILE EXCHANGE", "code": "Code-095741", "date": "12/28/21", "open_interest_all": "102,418", "non_commercial_long": "63,529", "non_commercial_short": "55,195"}
+{"name": "BRITISH POUND STERLING - CHICAGO MERCANTILE EXCHANGE", "code": "Code-096742", "date": "12/28/21", "open_interest_all": "205,378", "non_commercial_long": "156,875", "non_commercial_short": "96,774"}
+{"name": "JAPANESE YEN - CHICAGO MERCANTILE EXCHANGE", "code": "Code-097741", "date": "12/28/21", "open_interest_all": "203,814", "non_commercial_long": "150,647", "non_commercial_short": "78,283"}
+{"name": "EURO FX - CHICAGO MERCANTILE EXCHANGE", "code": "Code-099741", "date": "12/28/21", "open_interest_all": "673,273", "non_commercial_long": "384,857", "non_commercial_short": "403,390"}
+{"name": "NEW ZEALAND DOLLAR - CHICAGO MERCANTILE EXCHANGE", "code": "Code-112741", "date": "12/28/21", "open_interest_all": "41,862", "non_commercial_long": "27,097", "non_commercial_short": "16,997"}
+{"name": "S&P 500 Consolidated - CHICAGO MERCANTILE EXCHANGE", "code": "Code-13874+", "date": "12/28/21", "open_interest_all": "457,570", "non_commercial_long": "316,531", "non_commercial_short": "344,086"}
+{"name": "E-MINI S&P 500 STOCK INDEX - CHICAGO MERCANTILE EXCHANGE", "code": "Code-13874A", "date": "12/28/21", "open_interest_all": "2,287,852", "non_commercial_long": "1582654", "non_commercial_short": "1720430"}
+{"name": "NASDAQ-100 Consolidated - CHICAGO MERCANTILE EXCHANGE", "code": "Code-20974+", "date": "12/28/21", "open_interest_all": "42,219", "non_commercial_long": "20,825", "non_commercial_short": "23,832"}
+{"name": "AUSTRALIAN DOLLAR - CHICAGO MERCANTILE EXCHANGE", "code": "Code-232741", "date": "12/28/21", "open_interest_all": "183,152", "non_commercial_long": "146,266", "non_commercial_short": "46,790"}
+{"name": "NIKKEI STOCK AVERAGE - CHICAGO MERCANTILE EXCHANGE", "code": "Code-240741", "date": "12/28/21", "open_interest_all": "15,319", "non_commercial_long": "9,684", "non_commercial_short": "2,823"}
+{"name": "VIX FUTURES - CBOE FUTURES EXCHANGE", "code": "Code-1170E1", "date": "12/28/21", "open_interest_all": "277,502", "non_commercial_long": "142,296", "non_commercial_short": "86,071"}
+{"name": "SILVER - COMMODITY EXCHANGE INC.", "code": "Code-084691", "date": "12/28/21", "open_interest_all": "141,246", "non_commercial_long": "41,386", "non_commercial_short": "83,314"}
+{"name": "COPPER-GRADE #1 - COMMODITY EXCHANGE INC.", "code": "Code-085692", "date": "12/28/21", "open_interest_all": "180,736", "non_commercial_long": "77,057", "non_commercial_short": "96,736"}
+{"name": "GOLD - COMMODITY EXCHANGE INC.", "code": "Code-088691", "date": "12/28/21", "open_interest_all": "508,912", "non_commercial_long": "103,172", "non_commercial_short": "348,836"}
+{"name": "NATURAL GAS - NEW YORK MERCANTILE EXCHANGE", "code": "Code-023651", "date": "12/28/21", "open_interest_all": "1,110,532", "non_commercial_long": "505,086", "non_commercial_short": "389,476"}
+{"name": "CRUDE OIL, LIGHT SWEET - NEW YORK MERCANTILE EXCHANGE", "code": "Code-067651", "date": "12/28/21", "open_interest_all": "1,867,339", "non_commercial_long": "711,711", "non_commercial_short": "1084803"}
+{"name": "PALLADIUM - NEW YORK MERCANTILE EXCHANGE", "code": "Code-075651", "date": "12/28/21", "open_interest_all": "9,403", "non_commercial_long": "5,390", "non_commercial_short": "2,160"}
+{"name": "PLATINUM - NEW YORK MERCANTILE EXCHANGE", "code": "Code-076651", "date": "12/28/21", "open_interest_all": "60,353", "non_commercial_long": "21,661", "non_commercial_short": "32,316"}
+{"name": "GASOLINE BLENDSTOCK (RBOB) - NEW YORK MERCANTILE EXCHANGE", "code": "Code-111659", "date": "12/28/21", "open_interest_all": "290,822", "non_commercial_long": "128,840", "non_commercial_short": "192,185"}
